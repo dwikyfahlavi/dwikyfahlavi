@@ -1,9 +1,8 @@
-### Hallo 👋
+### Hallo my name is **Dwiqy Fahlavi Muhammad Ramdani** 👋
 
-Perkenalkan nama saya **Dwiqy Fahlavi Muhammad Ramdani**.\
-Saya adalah seorang **Mahasiswa** jurusan **Pendidikan Ilmu Komputer** di [Universitas Pendidikan Indonesia](https://www.upi.edu/).\
-Saat ini saya sedang melaksanakan program kampus merdeka - Student Independent @ [Altera](https://academy.alterra.id/).\
-Jika kamu tertarik untuk berkenalan denganku, silakan connect dengan akun [Linkedin](https://www.linkedin.com/in/dwiqyfahlavi/) ya.
+With a degree in Computer Science from [Universitas Pendidikan Indonesia](https://www.upi.edu/) (GPA: 3.75) and specialized training in Flutter Development from [Dicoding](https://www.dicoding.com/) and [Alterra](https://academy.alterra.id/), I’ve built a strong foundation in Dart programming and Flutter frameworks. I love creating clean, user-friendly apps for Web, Android, and iOS, combining creativity and precision to deliver impactful digital experiences.\
+
+If you interested lets connect [Linkedin](https://www.linkedin.com/in/dwiqyfahlavi/).
 
 ### Github Statistic
 <p align="left">
